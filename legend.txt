@@ -1,0 +1,7 @@
+no formal education - hu
+incomplete primary - hpi
+complete primary - hpc
+lower secondary - hsi
+upper secondary - hsc
+incomplete tertiary - hhi
+complete tertiary education - hhc
